@@ -11,3 +11,4 @@ Code for the paper
   year={2017},
   publisher={ACM New York, NY, USA}
 }
+Use the main.r file generate results.
